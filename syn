@@ -1,0 +1,3 @@
+#!/bin/sh
+
+wn $* -syns{n,v,a,r}
